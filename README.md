@@ -1,4 +1,4 @@
-# demo
+# Spring Boot Web-App : Demo
 Spring Boot Demo Web-App
 
 This is a Spring Boot Web-App that will use Postgres for persistant storage
